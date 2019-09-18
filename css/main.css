@@ -1,0 +1,10 @@
+html {
+  font-family: "Roboto", sans-serif;
+  background-image: url("../images/unsplashphoto.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+social-icon {
+  size: icon i-16;
+}
