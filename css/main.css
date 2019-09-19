@@ -5,6 +5,6 @@ html {
   background-size: cover;
 }
 
-social-icon {
-  size: icon i-16;
+.social-icon:hover {
+  transform: scale(2);
 }
