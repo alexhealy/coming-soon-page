@@ -12,3 +12,7 @@ html {
 .social-section {
   margin: auto;
 }
+
+.email {
+  font-style: bold;
+}
